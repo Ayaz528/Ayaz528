@@ -1,3 +1,5 @@
+MERN STACK developer with hands-on experience working with software companies.Strong skillset in JavaScript, React Native, Python , Django, Machine learning, Communication and Management. Strong education professional with a Bachelor's degree focused in SOFTWARE ENGINEERING.
+
 - 👋 Hi, I’m @Ayaz528
 - 👀 I’m interested in Cricket | Coding
 - 🌱 I’m currently learning MERN

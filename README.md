@@ -2,9 +2,9 @@ MERN STACK developer with hands-on experience working with software companies.St
 
 - 👋 Hi, I’m @Ayaz528
 - 👀 I’m interested in Cricket | Coding
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently working as a MERN Developer
 - 💞️ I’m looking to collaborate on dynamic web applications 
-- 📫 How to reach me hmayaz528@gmail.com
+- 📫 How to reach me ayaz.dev192@gmail.com
 
 <!---
 Ayaz528/Ayaz528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
